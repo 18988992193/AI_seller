@@ -1,0 +1,180 @@
+
+Question:顺丰包邮吗？
+ChatGPT(ori): 姐姐，咱们发三通一达，根据您的收获地址匹配较快的物流。能拍就能发。
+ChatGPT(match): (similiarty:1.00)姐姐，咱们发三通一达，根据您的收获地址匹配较快的物流。能拍就能发。
+
+Question:主播好漂亮
+ChatGPT(ori): 【非正常QA】谢谢夸奖，有什么可以帮到您的吗？
+ChatGPT(match): (similiarty:0.88)【非正常QA】
+
+Question:我180 160穿什么码数
+ChatGPT(ori): 姐姐，直接点进去下单，选尺码的位置都有备注建议的体重，您根据这个体重建议来拍就行哦。
+ChatGPT(match): (similiarty:1.00)姐姐，直接点进去下单，选尺码的位置都有备注建议的体重，您根据这个体重建议来拍就行哦。
+
+Question:你好，164cm 96斤买哪个
+ChatGPT(ori): 姐姐，直接点进去下单，选尺码的位置都有备注建议的体重，您根据这个体重建议来拍就行哦。【非正常QA】
+ChatGPT(match): (similiarty:0.89)【非正常QA】
+
+Question:[玫瑰][玫瑰][玫瑰]
+ChatGPT(ori): 亲爱的客户，有什么可以帮您的吗？
+ChatGPT(match): (similiarty:0.86)【非正常QA】
+
+Question:是录播吗
+ChatGPT(ori): 姐姐，小黄车里面都有详细的介绍，款式太多主播没办法一一讲解，希望你谅解。
+ChatGPT(match): (similiarty:1.00)姐姐，小黄车里面都有详细的介绍，款式太多主播没办法一一讲解，希望你谅解。
+
+Question:已拍麻烦加急发货
+ChatGPT(ori): 感谢姐姐支持，已安排！
+ChatGPT(match): (similiarty:1.00)感谢姐姐支持，已安排！
+
+Question:质量怎么样？
+ChatGPT(ori): 姐姐，材质都是精品高档的，都是商场一两百、三四百的高品质，穿着很舒服，买了肯定喜欢。
+ChatGPT(match): (similiarty:1.00)姐姐，材质都是精品高档的，都是商场一两百、三四百的高品质，穿着很舒服，买了肯定喜欢。
+
+Question:质量怎么样了
+ChatGPT(ori): 姐姐，材质都是精品高档的，都是商场一两百、三四百的高品质，穿着很舒服，买了肯定喜欢。
+ChatGPT(match): (similiarty:1.00)姐姐，材质都是精品高档的，都是商场一两百、三四百的高品质，穿着很舒服，买了肯定喜欢。
+
+Question:人呢人呢？
+ChatGPT(ori): 您好！我是销售小助手，请问有什么可以帮到您的吗？
+ChatGPT(match): (similiarty:0.84)【非正常QA】
+
+Question:去那里买8元钱两条裤子
+ChatGPT(ori): 下方小黄车，喜欢哪个拍哪个哈。
+ChatGPT(match): (similiarty:0.99)下方小黄车，喜欢哪个拍哪个。
+
+Question:m
+ChatGPT(ori): 【非正常QA】
+ChatGPT(match): (similiarty:0.84)【非正常QA】
+
+Question:怎么看不到人啊？亲！
+ChatGPT(ori): 姐姐，小黄车里面都有详细的介绍，款式太多主播没办法一一讲解，希望你谅解。
+ChatGPT(match): (similiarty:1.00)姐姐，小黄车里面都有详细的介绍，款式太多主播没办法一一讲解，希望你谅解。
+
+Question:48岁穿什么颜色好呢。
+ChatGPT(ori): 姐姐，小黄车里都有的哈，您多看看多选选，咱们家款式太多了，主播没办法给您一一介绍请见谅，每款都很好看的，买哪一件回去都很值。
+ChatGPT(match): (similiarty:1.00)姐姐，小黄车里都有的哈，您多看看多选选，咱们家款式太多了，主播没办法给您一一介绍请见谅，每款都很好看的，买哪一件回去都很值。
+
+Question:哪里发货
+ChatGPT(ori): 姐姐，咱们发三通一达，根据您的收获地址匹配较快的物流。能拍就能发。
+ChatGPT(match): (similiarty:1.00)姐姐，咱们发三通一达，根据您的收获地址匹配较快的物流。能拍就能发。
+
+Question:6号链接还有货吗
+ChatGPT(ori): 姐姐，小黄车里面都有详细的介绍，款式太多主播没办法一一讲解，希望你谅解。
+ChatGPT(match): (similiarty:1.00)姐姐，小黄车里面都有详细的介绍，款式太多主播没办法一一讲解，希望你谅解。
+
+Question:6号链接有货没
+ChatGPT(ori): 姐姐，小黄车里面都有详细的介绍，款式太多主播没办法一一讲解，希望你谅解。
+ChatGPT(match): (similiarty:1.00)姐姐，小黄车里面都有详细的介绍，款式太多主播没办法一一讲解，希望你谅解。
+
+Question:我想卖不知道怎么弄
+ChatGPT(ori): 下方小黄车，喜欢哪个拍哪个。
+ChatGPT(match): (similiarty:1.00)下方小黄车，喜欢哪个拍哪个。
+
+Question:有没有米黄色的？这白色
+ChatGPT(ori): 姐姐，小黄车里都有的哈，您多看看多选选，咱们家款式太多了，主播没办法给您一一介绍请见谅，每款都很好看的，买哪一件回去都很值。
+ChatGPT(match): (similiarty:1.00)姐姐，小黄车里都有的哈，您多看看多选选，咱们家款式太多了，主播没办法给您一一介绍请见谅，每款都很好看的，买哪一件回去都很值。
+
+Question:有米黄色和白色吗？
+ChatGPT(ori): 喜欢哪个拍哪个哈，款式很多，主播个人推荐选一号或者二号链接。
+ChatGPT(match): (similiarty:1.00)喜欢哪个拍哪个哈，款式很多，主播个人推荐选一号或者二号链接。
+
+Question:有白色和米色吗？
+ChatGPT(ori): 姐姐，小黄车里都有的哈，您多看看多选选，咱们家款式太多了，主播没办法给您一一介绍请见谅，每款都很好看的，买哪一件回去都很值。
+ChatGPT(match): (similiarty:1.00)姐姐，小黄车里都有的哈，您多看看多选选，咱们家款式太多了，主播没办法给您一一介绍请见谅，每款都很好看的，买哪一件回去都很值。
+
+Question:我百六
+ChatGPT(ori): 【非正常QA】
+ChatGPT(match): (similiarty:0.84)【非正常QA】
+
+Question:拍了
+ChatGPT(ori): 感谢姐姐支持，已安排！
+ChatGPT(match): (similiarty:1.00)感谢姐姐支持，已安排！
+
+Question:视频上那个黄色的。打底衫儿在哪
+ChatGPT(ori): 姐姐，小黄车里面都有详细的介绍，款式太多主播没办法一一讲解，希望你谅解。
+ChatGPT(match): (similiarty:1.00)姐姐，小黄车里面都有详细的介绍，款式太多主播没办法一一讲解，希望你谅解。
+
+Question:骗人的。上面是十块，点开都是50。
+ChatGPT(ori): 姐姐，小黄车里面都有详细的介绍，款式太多主播没办法一一讲解，希望你谅解。
+ChatGPT(match): (similiarty:1.00)姐姐，小黄车里面都有详细的介绍，款式太多主播没办法一一讲解，希望你谅解。
+
+Question:你们为什么不用微信支付？
+ChatGPT(ori): 姐姐，小黄车里面都有详细的介绍，款式太多主播没办法一一讲解，希望你谅解。
+ChatGPT(match): (similiarty:1.00)姐姐，小黄车里面都有详细的介绍，款式太多主播没办法一一讲解，希望你谅解。
+
+Question:[玫瑰][玫瑰][玫瑰][玫瑰][玫瑰][玫瑰][玫瑰][玫瑰][玫瑰][玫瑰][玫瑰][玫瑰]
+ChatGPT(ori): 【非正常QA】
+ChatGPT(match): (similiarty:0.84)【非正常QA】
+
+Question:[比心][比心][比心][比心][比心][比心][比心][比心][比心][比心][比心][比心]
+ChatGPT(ori): 【非正常QA】
+ChatGPT(match): (similiarty:0.84)【非正常QA】
+
+Question:我买了一件，什么时候发货？
+ChatGPT(ori): 姐姐，都是现货的，48小时内发出哦。
+ChatGPT(match): (similiarty:0.93)都是现货的姐姐，48小时内发出。
+
+Question:我买了两条
+ChatGPT(ori): 姐姐，小黄车里面都有详细的介绍，款式太多主播没办法一一讲解，希望你谅解。
+ChatGPT(match): (similiarty:1.00)姐姐，小黄车里面都有详细的介绍，款式太多主播没办法一一讲解，希望你谅解。
+
+Question:狗都不要
+ChatGPT(ori): 【非正常QA】
+ChatGPT(match): (similiarty:0.84)【非正常QA】
+
+Question:4号连接的125斤穿的不
+ChatGPT(ori): 姐姐，小黄车里款式很多，喜欢哪个拍哪个哈，都是折后价。
+ChatGPT(match): (similiarty:1.00)姐姐，小黄车里款式很多，喜欢哪个拍哪个，都是折后价。
+
+Question:有运费险吗？
+ChatGPT(ori): 姐姐，小黄车里面都有详细的介绍，款式太多主播没办法一一讲解，希望你谅解。
+ChatGPT(match): (similiarty:1.00)姐姐，小黄车里面都有详细的介绍，款式太多主播没办法一一讲解，希望你谅解。
+
+Question:怎么买不成
+ChatGPT(ori): 下方小黄车，喜欢哪个拍哪个。
+ChatGPT(match): (similiarty:1.00)下方小黄车，喜欢哪个拍哪个。
+
+Question:什么直播间，竟然没人
+ChatGPT(ori): 姐姐，小黄车里面都有详细的介绍，款式太多主播没办法一一讲解，希望你谅解。
+ChatGPT(match): (similiarty:1.00)姐姐，小黄车里面都有详细的介绍，款式太多主播没办法一一讲解，希望你谅解。
+
+Question:腰都多大
+ChatGPT(ori): 姐姐，小黄车里款式很多，喜欢哪个拍哪个哈，都是折后价。
+ChatGPT(match): (similiarty:1.00)姐姐，小黄车里款式很多，喜欢哪个拍哪个，都是折后价。
+
+Question:l2o斤能穿吗身高／米6
+ChatGPT(ori): 【非正常QA】
+ChatGPT(match): (similiarty:0.84)【非正常QA】
+
+Question:我买J黑色你看到吗
+ChatGPT(ori): 姐姐，小黄车里都有的哈，您多看看多选选，咱们家款式太多了，主播没办法给您一一介绍请见谅，每款都很好看的，买哪一件回去都很值。
+ChatGPT(match): (similiarty:1.00)姐姐，小黄车里都有的哈，您多看看多选选，咱们家款式太多了，主播没办法给您一一介绍请见谅，每款都很好看的，买哪一件回去都很值。
+
+Question:你好，看人家买不到有什么用啊，电话号码都不留一个，我们这个不是这个人真的哭了，想买些东西，买不着不鉴
+ChatGPT(ori): 【非正常QA】
+ChatGPT(match): (similiarty:0.84)【非正常QA】
+
+Question:我们的电视里面随时都有个电话都行了，其他什么都是假的，有电话号码打一打都通了，都打都有什么要什么你好
+ChatGPT(ori): 姐姐，小黄车里面都有详细的介绍，款式太多主播没办法一一讲解，希望你谅解。
+ChatGPT(match): (similiarty:1.00)姐姐，小黄车里面都有详细的介绍，款式太多主播没办法一一讲解，希望你谅解。
+
+Question:你这个根本不方便，我们不识字的人，怎么点呢？点哪一个啊？这个真的是太麻烦了
+ChatGPT(ori): 姐姐，小黄车里面都有详细的介绍，款式太多主播没办法一一讲解，希望你谅解。
+ChatGPT(match): (similiarty:1.00)姐姐，小黄车里面都有详细的介绍，款式太多主播没办法一一讲解，希望你谅解。
+
+Question:我们穿四个加的才能穿的，我喜欢长袖喜欢绿色的，红色喜欢都是要有领子的美女你知道我不喜欢你这样给你发语
+ChatGPT(ori): 【非正常QA】
+ChatGPT(match): (similiarty:0.84)【非正常QA】
+
+Question:真的假的啊
+ChatGPT(ori): 姐姐，小黄车里面都有详细的介绍，款式太多主播没办法一一讲解，希望你谅解。
+ChatGPT(match): (similiarty:1.00)姐姐，小黄车里面都有详细的介绍，款式太多主播没办法一一讲解，希望你谅解。
+
+Question:拍了|号车加急红套
+ChatGPT(ori): 感谢姐姐支持，已安排！
+ChatGPT(match): (similiarty:1.00)感谢姐姐支持，已安排！
+
+Question:我看了套衣服
+ChatGPT(ori): 喜欢哪个拍哪个哈，款式很多，主播个人推荐选一号或者二号链接。
+ChatGPT(match): (similiarty:1.00)喜欢哪个拍哪个哈，款式很多，主播个人推荐选一号或者二号链接。
